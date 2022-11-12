@@ -7,7 +7,8 @@ Vytvořte svůj vlastní gamebook pomocí HTML a odkazů mezi soubory. Vytvořte
 
 ## Struktura souborů
 
-Příklad struktury souborů. Složky vytvořte a nazvěte podle potřeb příběhu.
+Příklad struktury sou
+borů. Složky vytvořte a nazvěte podle potřeb příběhu.
 
 Složka projektu
 
